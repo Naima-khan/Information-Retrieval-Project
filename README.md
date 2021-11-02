@@ -5,6 +5,6 @@ shared inside the 'Text' folder. Python package 'geograpy' is used to extract th
 
 Useful links:
 
-*Previous Geograpy package: https://github.com/ushahidi/geograpy
+* Previous Geograpy package: https://github.com/ushahidi/geograpy
 
 * New Geograpy package: https://github.com/somnathrakshit/geograpy3
